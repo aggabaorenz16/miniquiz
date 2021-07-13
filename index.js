@@ -12,10 +12,10 @@ const QandA = [
     {
         question : "Kailan namatay si Dr. Jose Rizal?",
         answer : "a",
-        a : "Sept 16, 2003",
-        b : "Nov 20, 2021",
-        c : "Dec 26, 2020",
-        d : "Aug 30, 2008",
+        a : "Dec 30, 1896",
+        b : "April 17, 1970",
+        c : "Dec 26, 1879",
+        d : "Dec 18, 1898",
     },
     {
         question : "What is |-10|?",
